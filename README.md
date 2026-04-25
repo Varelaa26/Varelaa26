@@ -1,17 +1,37 @@
-## Hello, World! 👋 I'm Victor Varela
+# 🚀 Fullstack Developer | Backend Specialist
+### Olá, eu sou o Victor Varela! 👋
 
-- 🔭 Fullstack developer - Back-end especialist
-- 🌱 I’m currently learning about new front-end tools
-- 📫 contact me: victorgdsv2011@gmail.com
-- ⚡ Fun fact: Yes, I'm 15
+<p align="left">
+  <img src="https://img.shields.io/badge/Idade-15%20anos-blueviolet?style=flat-square" alt="Idade">
+  <img src="https://img.shields.io/badge/Foco-Back--end-blue?style=flat-square" alt="Foco">
+  <img src="https://img.shields.io/badge/Status-Estudando%20Front--end-success?style=flat-square" alt="Status">
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="TailwindCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img align="center" alt="SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+Sou um desenvolvedor apaixonado por lógica e estruturação de dados. Atualmente, foco na criação de soluções robustas no **Back-end**, enquanto expando meu arsenal de ferramentas para o **Front-end** moderno. Aos 15 anos, encaro a programação como uma jornada de aprendizado contínuo e resolução de problemas complexos.
+
+---
+
+### 🛠️ Stack Tecnológica
+
+| Camada | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Front-end** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Base de Dados** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varelaa26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varelaa26&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+---
+
+### 🔭 O que ando fazendo?
+
+- 🌱 **Atualmente aprendendo:** Frameworks modernos de Front-end e aprimorando lógica de APIs.
+- ⚡ **Fun fact:** Sim, tenho apenas 15 anos e o código já faz parte do meu dia a dia.
+- 💬 **Pergunte-me
