@@ -24,8 +24,8 @@ Sou um desenvolvedor apaixonado por lógica e estruturação de dados. Atualment
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varelaa26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varelaa26&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Varelaa26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Varelaa26&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
 ---
