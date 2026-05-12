@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Status-Estudando%20Front--end-success?style=flat-square" alt="Status">
 </p>
 
-Sou um desenvolvedor apaixonado por lógica e estruturação de dados. Atualmente, foco na criação de soluções robustas no **Back-end**, enquanto expando meu arsenal de ferramentas para o **Front-end** moderno. Aos 15 anos, encaro a programação como uma jornada de aprendizado contínuo e resolução de problemas complexos.
+Sou um desenvolvedor apaixonado por lógica e estruturação de dados. Atualmente, foco na criação de soluções robustas no **Back-end**, enquanto expando meu arsenal de para a integração com **inteligência artificial**. Aos 15 anos, encaro a programação como uma jornada de aprendizado contínuo e resolução de problemas complexos.
 
 ---
 
@@ -35,6 +35,6 @@ Sou um desenvolvedor apaixonado por lógica e estruturação de dados. Atualment
 
 ### 🔭 O que ando fazendo?
 
-- 🌱 **Atualmente aprendendo:** Frameworks modernos de Front-end e aprimorando lógica de APIs.
+- 🌱 **Atualmente aprendendo:** Integrações com IA e APIs.
 - ⚡ **Fun fact:** Sim, tenho apenas 15 anos e o código já faz parte do meu dia a dia.
 - 💬 **Pergunte-me
