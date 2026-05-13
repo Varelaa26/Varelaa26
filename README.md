@@ -4,7 +4,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Idade-15%20anos-blueviolet?style=flat-square" alt="Idade">
   <img src="https://img.shields.io/badge/Foco-Back--end-blue?style=flat-square" alt="Foco">
-  <img src="https://img.shields.io/badge/Status-Estudando IA e APIs%20Front--end-success?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Estudando IA e APIs%20?style=flat-square" alt="Status">
 </p>
 
 Sou um desenvolvedor apaixonado por lógica e estruturação de dados. Atualmente, foco na criação de soluções robustas no **Back-end**, enquanto expando meu arsenal de para a integração com **inteligência artificial**. Aos 15 anos, encaro a programação como uma jornada de aprendizado contínuo e resolução de problemas complexos.
