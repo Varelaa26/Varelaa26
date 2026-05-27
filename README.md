@@ -31,6 +31,6 @@ Sou um desenvolvedor apaixonado por lógica e estruturação de dados. Atualment
 
 ### 🔭 O que ando fazendo?
 
-- 🌱 **Atualmente aprendendo:** Integrações com IA e APIs.
+- 🌱 **Atualmente aprendendo:** Integrações com IA e Web APIs.
 - ⚡ **Fun fact:** Sim, tenho apenas 15 anos e o código já faz parte do meu dia a dia.
 - 💬 **Pergunte-me
