@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Foco-Back--end-blue?style=flat-square" alt="Foco">
 </p>
 
-Sou um desenvolvedor apaixonado por lógica e estruturação de dados. Atualmente, foco na criação de soluções robustas no **Back-end**, enquanto expando meu arsenal de para a integração com **inteligência artificial**. Aos 15 anos, encaro a programação como uma jornada de aprendizado contínuo e resolução de problemas complexos.
+  Sou um desenvolvedor apaixonado por lógica e estruturação de dados. Atualmente, foco na criação de soluções robustas no **Back-end**, enquanto expando meu arsenal de para a integração com **inteligência artificial**. Aos 15 anos, encaro a programação como uma jornada de aprendizado contínuo e resolução de problemas complexos.
 
 ---
 
