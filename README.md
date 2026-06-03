@@ -1,5 +1,5 @@
 # 🚀 Fullstack Developer | Backend Specialist
-### Olá, mundo! 👋
+### print("Olá, mundo!") 👋
 
 <p align="left">
   <img src="https://img.shields.io/badge/Idade-15%20anos-blueviolet?style=flat-square" alt="Idade">
