@@ -1,4 +1,4 @@
-# 🚀 Fullstack Developer | Backend Specialist
+# 🚀 Estudante de Informática | Eletrônica e Programação
 ### print("Olá, mundo!") 👋
 
 <p align="left">
